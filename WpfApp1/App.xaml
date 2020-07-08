@@ -1,0 +1,23 @@
+﻿<Application x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             xmlns:vm="clr-namespace:WpfApp1.ViewModels"
+             xmlns:v="clr-namespace:WpfApp1.Views"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <DataTemplate DataType="{x:Type vm:MaArtViewModel}">
+            <v:MaArView/>
+        </DataTemplate>
+        
+        <Style x:Key="MenuButton" TargetType="Button">
+             <Setter Property="Background" Value="MediumSlateBlue"/>
+             <Setter Property="Foreground" Value="Blue"/>
+             <Setter Property="BorderBrush" Value="Indigo"/>
+             <Setter Property="BorderThickness" Value="0,0,2,0"/>
+             <Setter Property="FontStyle" Value="Italic"/>
+             <Setter Property="FontSize" Value="12"/>
+         </Style>
+    </Application.Resources>
+</Application>
