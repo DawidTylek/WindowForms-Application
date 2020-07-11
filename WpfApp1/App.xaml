@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:WpfApp1"
              xmlns:vm="clr-namespace:WpfApp1.ViewModels"
              xmlns:v="clr-namespace:WpfApp1.Views"
+             xmlns:helper="clr-namespace:WpfApp1.Helpers"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         
@@ -12,6 +13,9 @@
         </DataTemplate>
         
         <BitmapImage x:Key="DefaultListImage" UriSource="C:/Users/dawid/Desktop/Window app/Icons/white-and-black-check-illustration-png-clip-art.png"/>
+        
+        <helper:BoolToVisibilityConverter x:Key="IdEditConverter"/>
+        <helper:NullToVisibilityConverter x:Key="SelectedContactConverter"/>
         
         <Style x:Key="MenuButton" TargetType="Button">
              <Setter Property="Background" Value="MediumSlateBlue"/>
