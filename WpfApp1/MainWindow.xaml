@@ -36,13 +36,13 @@
             <StackPanel Grid.Column="4" Grid.ColumnSpan="1" Orientation="Horizontal" HorizontalAlignment="Right"> 
                  <Button Background="#8A2BE2">
                      <Button.Content>
-                         <Image Height="40" Width="40" Source="C:\Users\dawid\RiderProjects/Icons/AddCircle-512.png"/>
+                         <Image Height="40" Width="40" Source="C:\Users/dawid/Desktop/Window app/Icons/AddCircle-512.png"/>
                      </Button.Content>
                  </Button>
                 
                 <Button Background="#8A2BE2">
                     <Button.Content>
-                        <Image Height="40" Width="40" Source="C:\Users/dawid/RiderProjects/Icons/img_524251.png"/>
+                        <Image Height="40" Width="40" Source="C:\Users/dawid/Desktop/Window app/Icons/img_524251.png"/>
                     </Button.Content>
                 </Button>
             </StackPanel>

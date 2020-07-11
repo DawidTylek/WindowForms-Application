@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dawid\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\dawid\\Desktop\\Window app\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dawid\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\dawid\\Desktop\\Window app\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dawid\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\dawid\\Desktop\\Window app\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Users\\dawid\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\Users\\dawid\\Desktop\\Window app\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dawid\\RiderProjects\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "C:\\Users\\dawid\\Desktop\\Window app\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"

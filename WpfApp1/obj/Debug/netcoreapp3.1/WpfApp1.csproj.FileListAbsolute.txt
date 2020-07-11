@@ -18,3 +18,28 @@ C:\Users\dawid\RiderProjects\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
 C:\Users\dawid\RiderProjects\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
 C:\Users\dawid\RiderProjects\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
 C:\Users\dawid\RiderProjects\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\dawid\Desktop\Window app\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\ListItemView.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\MaArView.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\ListItemView.baml
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\MaArView.baml
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
