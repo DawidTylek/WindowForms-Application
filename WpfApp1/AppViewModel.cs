@@ -1,4 +1,5 @@
-﻿using WpfApp1.ViewModels;
+﻿using WpfApp1.Services;
+using WpfApp1.ViewModels;
 
 namespace WpfApp1
 {
@@ -20,7 +21,9 @@ namespace WpfApp1
  
         public AppViewModel()
         {
-            MartialVM = new MaArtViewModel();
+            var dataService = new MockDataService();
+            
+            MartialVM = new MaArtViewModel(dataService);
             CurrentView = MartialVM;
         }
     }
