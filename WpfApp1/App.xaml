@@ -11,6 +11,8 @@
             <v:MaArView/>
         </DataTemplate>
         
+        <BitmapImage x:Key="DefaultListImage" UriSource="C:/Users/dawid/Desktop/Window app/Icons/white-and-black-check-illustration-png-clip-art.png"/>
+        
         <Style x:Key="MenuButton" TargetType="Button">
              <Setter Property="Background" Value="MediumSlateBlue"/>
              <Setter Property="Foreground" Value="Blue"/>

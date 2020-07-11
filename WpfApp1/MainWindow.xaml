@@ -21,7 +21,7 @@
             </Grid.ColumnDefinitions>
             
             <Grid Grid.Column="0">
-                <Button Style="{StaticResource MenuButton}" Content="List of schools"/>
+                <Button Style="{StaticResource MenuButton}" Content="List of schools" Command="{Binding InformationVm.LoadInformationCommand}"/>
             </Grid>
             <Grid Grid.Column="1">
                 <Button Style="{StaticResource MenuButton}" Content="Tournaments"/>
