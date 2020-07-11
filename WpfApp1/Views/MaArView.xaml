@@ -14,7 +14,7 @@
         </Grid.ColumnDefinitions>
         
         <Grid Grid.Column="0">
-            <ListView ItemsSource="{Binding InformationVM.Schools}" SelectedItem="{Binding InformationVM.SelectedInformation}">
+            <ListView ItemsSource="{Binding InformationVm.Schools}" SelectedItem="{Binding InformationVm.SelectedInformation}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <v:ListItemView/>
@@ -24,7 +24,13 @@
         </Grid>
         
         <Grid Grid.Column="1">
-            
+           <ScrollViewer>
+               <ContentControl>
+                   <ContentControl.Content>
+                       <v:DeatailsView DataContext="{Binding InformationVm}"/>
+                   </ContentControl.Content>
+               </ContentControl>
+           </ScrollViewer>
         </Grid>
         
     </Grid>

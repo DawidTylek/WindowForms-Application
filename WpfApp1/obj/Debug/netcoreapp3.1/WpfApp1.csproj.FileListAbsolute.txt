@@ -43,3 +43,5 @@ C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj
 C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
 C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
 C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\DeatailsView.g.cs
+C:\Users\dawid\Desktop\Window app\WpfApp1\obj\Debug\netcoreapp3.1\Views\DeatailsView.baml

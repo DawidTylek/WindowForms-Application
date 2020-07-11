@@ -13,6 +13,9 @@
       <Page Update="Views\ListItemView.xaml">
         <Generator></Generator>
       </Page>
+      <Page Update="Views\DeatailsView.xaml">
+        <Generator></Generator>
+      </Page>
     </ItemGroup>
 
     <ItemGroup>
@@ -21,6 +24,9 @@
       </Compile>
       <Compile Update="Views\ListItemView.xaml.cs">
         <DependentUpon>ListItemView.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="Views\DeatailsView.xaml.cs">
+        <DependentUpon>DeatailsView.xaml</DependentUpon>
       </Compile>
     </ItemGroup>
 
